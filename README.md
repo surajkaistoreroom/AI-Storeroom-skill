@@ -1,5 +1,6 @@
-# AI-Storeroom-skill
-Open Source Claude Skill: AI Product Advisor. Builds custom AI stacks for companies using a curated catalog of AI products.
+# AI Product Advisor
+
+Open Source Claude Skill that helps companies build custom AI stacks using a curated catalog of AI products.
 
 ## Features
 
@@ -8,11 +9,11 @@ Open Source Claude Skill: AI Product Advisor. Builds custom AI stacks for compan
 - Industry-specific suggestions
 - AI market landscape references
 
-## Files
+## Repository Structure
 
-- SKILL.md
-- references/ai-products-catalog.md
-- references/ai-categories-tiers.md
+- `SKILL.md` - Main Claude Skill
+- `references/ai-products-catalog.md` - AI products catalog
+- `references/ai-categories-tiers.md` - AI market categories and tiers
 
 ## License
 
